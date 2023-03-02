@@ -20,7 +20,7 @@ public class TesteArrayDePrimitivos {
 
         System.out.println(idades[2]);
         System.out.println(idades[4]);
-        System.out.println(idades[5]);
+        System.out.println(idades[0]);
 
 
 
